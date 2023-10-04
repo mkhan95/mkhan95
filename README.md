@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Asif Khan
-- 👀 I’m interested in React, React Native, Javascript and Related Web Dev
+- 👋 Hi, I’m Asif Khan and welcome to my personal GitHub space
+- 👀 I’m a software developer with experience Java, SpringBoot, Angular and React
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Anything web
 - 📫 How to reach me ping me here
